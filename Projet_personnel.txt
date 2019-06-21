@@ -1,0 +1,1 @@
+Projet personnel : cet exercice va me permettre de connaitre Git et Github pour ensuite monter en compétence dans le domaine de l'intégration continue ou industrialisé. 
